@@ -5,7 +5,7 @@ This task was to find the optimal price for day 150 for each of the 250 products
 Initially, I wanted to explore the data to see if there were any patterns worth noting both at the category and product levels. I started by calculating daily profit for the whole dataset, and created scatter plots for each category. The scatter plots had price on the x axis, and orders on the y axis, and color hues dependent on daily profit. These scatter plots were meant to show any price/order pattern behavior, as well as showing where the most profitable areas were. The most profitable days tended to ride the top curve of the scatter plots. These indicated the days with the highest orders at those price points. I was tempted to use that curve as the measure of optimized price. However, I realized that within the same categories, it is likely that there are different products with different levels of customer perceived value. Thus, pricing every product in the category at that curve may not be 
 optimal. 
 
-![category scatter plot]('./assets/scatter_price_orders_cat0.png')
+![category scatter plot](https://github.com/linjoshua882/price-elasticity-exercise/blob/main/assets/scatter_price_orders_cat0.png)
 
 So, I decided to explore further at the product level.
 
