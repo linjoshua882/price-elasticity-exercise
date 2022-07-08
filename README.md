@@ -9,7 +9,7 @@ optimal.
 
 So, I decided to explore further at the product level.
 
-![prod scatter plot]('./assets/scatter_prod_cat_2.png')
+![prod scatter plot](https://github.com/linjoshua882/price-elasticity-exercise/blob/main/assets/scatter_prod_cat_2.png)
 
 To do this, I selected one product from each category to examine on a deeper level. I noticed clusters that indicated price banding, as well as a similar pattern to the category scatter plots in regards to the price/orders relationship as well as the distribution of profitability on the plots. High daily profit levels tended to be near the median or near the maximum of the price range. I also noticed that the patterns on every scatter plot at the product level were slightly different- indicating that each product has a different type of customer behavior, levels of perceived value, and price ranges. This is where I decided to calculate price elasticity at the product level.
 
